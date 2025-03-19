@@ -566,3 +566,10 @@ body {
 .nav__link,.nav__logo {
   color: #ffffff; /* White */
 }
+
+.home__subtitle {
+  font-size: 16px; /* Set font size to 12px */
+  display: block; /* Ensures it appears on a new line */
+  margin-top: 5px; /* Optional: Add spacing */
+  color: #ffffff; /* Optional: Adjust color for readability */
+}
